@@ -1,5 +1,5 @@
 TITLE:
-Personal Portfolio Template built by Gulam Anas https://twitter.com/ivenkatraj
+Personal Portfolio Template built by Venkat Raj https://twitter.com/ivenkatraj
 
 AUTHOR:
 DESIGNED & DEVELOPED by Venkatraj

@@ -1,13 +1,3 @@
-TITLE:
-Personal Portfolio Template built by Venkat Raj https://twitter.com/ivenkatraj
-
-AUTHOR:
-DESIGNED & DEVELOPED by Venkatraj
-
-CREDITS:
-
-Scroll Animation
-https://ivenkatraj.github.io/
 
 Demo Images:
 http://unsplash.com
